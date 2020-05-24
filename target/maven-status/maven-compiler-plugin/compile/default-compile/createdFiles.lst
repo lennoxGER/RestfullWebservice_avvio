@@ -1,0 +1,5 @@
+lsc\springboot\model\Person.class
+lsc\springboot\controller\DefaultController.class
+lsc\springboot\model\Adress.class
+lsc\springboot\model\Customer.class
+lsc\springboot\view\Application.class
