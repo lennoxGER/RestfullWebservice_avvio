@@ -1,4 +1,4 @@
-package lsc.springboot.controller;
+package lsc.springboot.app.controller;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
